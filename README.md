@@ -3,8 +3,6 @@
 Welcome to the "Academy" repository! This project provides an HTML and CSS design template for an educational website. It is perfect for academies, or online learning 
 platforms. The template is responsive and easy to customize, making it an excellent starting point for your educational website.
 
-![HomePage](https://github.com/arshdeep811/Academy/assets/87892546/2d0627a9-185f-4702-960f-744d4c2e7e1c)
-
 ## Table of Contents
 
 1. Features
@@ -12,7 +10,8 @@ platforms. The template is responsive and easy to customize, making it an excell
 3. Installation
 4. Customization
 5. Contribution
-
+6. Demo
+   
 ## Features
 
 1. Modern and clean design
@@ -46,6 +45,10 @@ Contributions to this project are welcome! If you would like to contribute, plea
 4. Push your changes:
    git push origin your-feature-branch
 5. Submit a pull request.
+
+## Demo
+
+![HomePage](https://github.com/arshdeep811/Academy/assets/87892546/2d0627a9-185f-4702-960f-744d4c2e7e1c)
 
 Thank you for visiting the Academy repository! We hope you find this template useful for your educational website. If you have any questions or feedback, feel free to 
 open an issue.
